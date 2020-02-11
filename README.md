@@ -28,5 +28,12 @@ TrainAndTest.py : 修改參數並修改為可將圖片各別切割後會輸出�
 
 data_move.py : 當有連續好幾份資料時，方便取出資料及整理用。
 
+Data
+-----------------
+
+* input_data : 13.jpg
+* split_image : output/13/*.jpg
+* output_data : output/data/13.txt
+
 
 
